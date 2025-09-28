@@ -1,0 +1,8 @@
+Ben,24,3.64
+Jack,22,3.56
+Alex,24,3.6
+Andy,23,3.5
+James,22,3.68
+John,22,3.71
+Michael,24,3.73
+Robert,23,3.55
